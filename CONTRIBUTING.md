@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/spreadsheet-parser/issues
+[1]: https://github.com/Bloggify/spreadsheet-parser/issues
 
 [2]: https://github.com/IonicaBizau/code-style
