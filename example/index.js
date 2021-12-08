@@ -1,5 +1,14 @@
 "use strict";
 
-const spreadsheetParser = require("../lib");
+const SpreadsheetParser = require("../lib");
 
-console.log(spreadsheetParser());
+
+(async () => {
+    const content = await SpreadsheetParser(`${__dirname}/sample.xlsx`)
+    console.log(content)
+
+    const csvContent = await SpreadsheetParser(`${__dirname}/sample.csv`, {
+        headers: true
+    })
+    console.log(csvContent)
+})()
