@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
-  "homepage": "https://github.com/IonicaBizau/spreadsheet-parser#readme",
+  "homepage": "https://github.com/Bloggify/spreadsheet-parser#readme",
   "files": [
     "bin/",
     "app/",
@@ -34,10 +34,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/spreadsheet-parser.git"
+    "url": "git+ssh://git@github.com/Bloggify/spreadsheet-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/spreadsheet-parser/issues"
+    "url": "https://github.com/Bloggify/spreadsheet-parser/issues"
   },
   "dependencies": {
     "csv-it": "^1.2.1",
