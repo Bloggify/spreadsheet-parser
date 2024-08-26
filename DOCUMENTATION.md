@@ -11,5 +11,5 @@ Parse spreadsheet files with ease.
 - **Object** `opts`: The options to pass to the processor.
 
 #### Return
-- **Promise.\<Array>** A promise resolving the array content of the spreadsheet.
+- **Promise\<Array>** A promise resolving the array content of the spreadsheet.
 

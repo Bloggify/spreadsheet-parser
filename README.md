@@ -96,6 +96,7 @@ const SpreadsheetParser = require("spreadsheet-parser");
 
 
 
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -104,6 +105,8 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
+
 
 
 
@@ -121,7 +124,7 @@ Parse spreadsheet files with ease.
 - **Object** `opts`: The options to pass to the processor.
 
 #### Return
-- **Promise.\<Array>** A promise resolving the array content of the spreadsheet.
+- **Promise\<Array>** A promise resolving the array content of the spreadsheet.
 
 
 
